@@ -39,6 +39,6 @@ Save the <strong>1870 Federal Census Grinnell Township file</strong> to your <st
 
 6-<strong>Select Average</strong> to calculate the average value for your selected cells. The result (37.10458) is printed in cell G163 below the selected data values.
 
-# Final Reflection
+## Final Reflection
 
 Explore the AutoSum functions with other data fields. How do these calculations impact or inform your understanding of the data? What questions do you have about the data or calculations?
