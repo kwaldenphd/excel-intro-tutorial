@@ -1,4 +1,4 @@
-# Introduction to Excel Tutorial
+# Introduction to Analyzing Data in Excel
 
 This tutorial was written by <a href="https://www.grinnell.edu/users/waldenka">Katherine Walden</a>, Digital Liberal Arts Specialist at Grinnell College.
 
