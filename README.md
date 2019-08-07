@@ -17,7 +17,7 @@ Save the <strong>1870 Federal Census Grinnell Township file</strong> to your <st
 
 &nbsp;
 
-<p align="center"><a href="http://sarahjpurcell.sites.grinnell.edu/digital_methods/wp-content/uploads/2018/07/Capture_2-1.png"><img class="aligncenter" src="http://sarahjpurcell.sites.grinnell.edu/digital_methods/wp-content/uploads/2018/07/Capture_2-1-1024x671.png" alt="" width="840" height="550" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-tutorial/blob/master/screenshots/Capture_2.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-tutorial/blob/master/screenshots/Capture_2.png?raw=true" alt="" width="840" height="550" /></a></p>
 
 <p align="center"><a href="http://sarahjpurcell.sites.grinnell.edu/digital_methods/wp-content/uploads/2018/07/Capture_1.png"><img class="aligncenter" src="http://sarahjpurcell.sites.grinnell.edu/digital_methods/wp-content/uploads/2018/07/Capture_1.png" alt="" width="347" height="137" /></a></p>
 
