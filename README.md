@@ -1,5 +1,4 @@
-# voyant_tutorial
-Voyant Tutorial
+# Excel Tutorial
 
 This tutorial was written by <a href="https://www.grinnell.edu/users/waldenka">Katherine Walden</a>, Digital Liberal Arts Specialist at Grinnell College.
 
