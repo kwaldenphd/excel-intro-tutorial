@@ -11,7 +11,7 @@ Analyzing Data (Excel and Tableau) is licensed under a <a href="http://creativec
 
 # Analyzing Data in Microsoft Excel
 
-1-Navigate to<a href="http://vivero.sites.grinnell.edu/files/"> http://vivero.sites.grinnell.edu/files/</a> in a browser and open the 1870 Federal Census Grinnell Township file in Microsoft Excel.
+1-Download the 1870_Federal_Census_Grinnell_Township.csv file from this GitHub repo. Open the file in Microsoft Excel.
 
 Save the <strong>1870 Federal Census Grinnell Township file</strong> to your <strong>Desktop</strong>. Microsoft Excel includes wide range of data analysis tools that require minimal specialized technical knowledge.
 
